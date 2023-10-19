@@ -1,0 +1,18 @@
+Tutorial for peppegas
+The game runs from a 'main window' from which commands can be issed out
+While in this main menu, you can access the inventory,character screen, map, and control your movement
+Enter the name of the interface that you want to go to in order to get there
+You can view your character's stats and currently equipped items by entering the name of your character
+Inventory will show all the items that are in your inventory
+While in inventory, you can enter 'equip' or 'remove' at which point you will be prompted for the desired item
+Move will allow you to move your location. W = north, s= south a=west, d = east
+How many spaces you are allowed to move is dictated by how much 'speed' you have. Speed can be found in game
+If you run out of speed, then you will have to fight the speedosaur. Killing it will give you 20 speed
+The map will show the values of different locations. You have to move an adequate amoves of spaces
+In the desired direction in order to arrive to that location
+You will have to go into the movement screen once you arrive at a location in order to arrive
+Locations are shown in the order of north,east,south,west
+When you engage in combat with an enemy, you can access your inventory, view your character, attack, or run.
+Inventory and character are accessed the same way as they are on the main menu, and 'attack' or 'run' can
+be entered into the command window. When you run from a fight, you will loose bing bongs. :(
+You can return to the main menu at any point by typing 'exit'

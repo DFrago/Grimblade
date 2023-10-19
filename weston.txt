@@ -1,0 +1,12 @@
+You see a towering smoke stack in the distance.
+There is a horrible smell in the air.
+As you approach the stack, you come across a barbed wire fence.
+A man leans on the fence, and is wearing what looks like very worn out leather.
+He tosses a coin into the air and catches it on the way down. 
+"Are you trying to gain access to weston"?
+You stare at him, still slightly unnerved by his strange looking garments.
+"why, are you here? you trying to buy some deez? "
+You ask what deez is.
+"Why don't you just pay the 10 bing-bong entrance fee and find out?"
+Pay the fee [yes/no]
+

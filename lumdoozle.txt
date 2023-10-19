@@ -1,0 +1,6 @@
+You have arrived at lumdoozle.
+It seems like a small farming town. There are people bustling around.
+There are guards at the gate, but they schlumped and are cleary not awake.
+You easily pass through the gate.
+You notice that there is a bronze dagger on the table next to the sleeping guards.
+Do you tactically aquire the bronze dagger? [yes or no]
